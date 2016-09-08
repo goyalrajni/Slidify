@@ -7,7 +7,3 @@ The shiny application developed is a Body Mass Index Calculator. It is very simp
 After a presentation of the application is disigned using slidify. The presentation could be visualized in:
 
 http://ibonaranburu.github.io/Data-Product-Presentation/index.html
-
-or 
-
-http://rpubs.com/ibonaranburu/21292
